@@ -1,0 +1,45 @@
+.Company{
+    text-align: center;
+    margin-top:2rem;
+    padding: 20px 0px;
+    }
+    .input-box{
+        width: 10rem;
+    }
+    #result{
+        margin-top: 1rem;
+        font-size: 1.2rem;
+    }
+    #toCurrency{
+        border: none;
+        background-color: #112A46;
+        color: white;
+        outline: none;
+        border-radius: 5px;
+    }
+    #fromCurrency{
+        border: none;
+        background-color: #112A46;
+        color: white;
+        outline: none;
+        border-radius: 5px;
+    }
+    #amount{
+        border-radius: 5px;
+        outline: none;
+    }
+    #convertedAmount{
+        border-radius: 5px;
+        outline: none;
+    }
+    #convertButton{
+        color: white 
+        ;background: linear-gradient(to right, #afad8e, black);
+        width: 100%; 
+        margin-top: 3rem; 
+        border-radius: 0;
+    }
+    #convertButton:hover{
+        background: linear-gradient(to right, black, #afad8e);
+    }                                           
+    
